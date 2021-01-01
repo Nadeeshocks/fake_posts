@@ -1,10 +1,25 @@
 {
   "posts": [
-    {"January":"65"},
-    {"February":"59"},
-    {"March":"80"},
-    {"April":"81"},
-    {"May":"56"}
+    {
+     "month":"January",
+     "data":"65",
+    },
+    {
+      "month":"February",
+      "data":"59",
+    },
+    {
+      "month":"March",
+      "data":"80",
+    },
+    {
+      "month":"April",
+     "data"::"81",
+    },
+    {
+      "month":"May",
+     "data"::"56"
+    }
   ],
   
 }
