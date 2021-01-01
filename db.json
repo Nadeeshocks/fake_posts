@@ -3,29 +3,27 @@
     {
       "id": 1,
       "month":"January",
-     "data":"65",
-
+     "data":"65"
     },
     {
       "id": 2,
       "month":"February",
-      "data":"59",
-
+      "data":"59"
     },
     {
       "id": 3,
       "month":"March",
-      "data":"80",
+      "data":"80"
     },
     {
       "id": 4,
      "month":"April",
-     "data":"81",
+     "data":"81"
     },
     {
       "id": 5,
       "month":"May",
-     "data":"56",
+     "data":"56"
 
     }
   ],
