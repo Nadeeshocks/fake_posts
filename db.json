@@ -2,15 +2,31 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "month":"January",
+     "data":"65",
+
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "month":"February",
+      "data":"59",
+
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "month":"March",
+      "data":"80",
+    },
+    {
+      "id": 4,
+     "month":"April",
+     "data":"81",
+    },
+    {
+      "id": 5,
+      "month":"May",
+     "data":"56",
+
     }
   ],
   "comments": [
