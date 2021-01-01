@@ -1,31 +1,10 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "danish"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
+    {"January":"65"},
+    {"February":"59"},
+    {"March":"80"},
+    {"April":"81"},
+    {"May":"56"}
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
